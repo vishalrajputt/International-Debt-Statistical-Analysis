@@ -12,4 +12,5 @@ I have examined data on global debt gathered by The World Bank for this project.
 8. The most common debt indicator
 9. Other viable debt issues and conclusion
 
---Using SQL queries and python to answer above questions about international debt using data from The World Bank.
+# Sol Approch
+Using SQL queries and python to answer above questions about international debt using data from The World Bank.
